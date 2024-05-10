@@ -9,7 +9,7 @@ const Home = () => {
   // const state2 =state[1] // function
 
   const [count, setCount] = useState(0);
-
+console.log(count);
   const increaseCount = () => {
     setCount(count + 1);
     console.log("hello world")
