@@ -12,6 +12,7 @@ const Home = () => {
 
   const increaseCount = () => {
     setCount(count + 1);
+    console.log("hello world")
   };
   return (
     <div>
