@@ -17,3 +17,13 @@ Button.propTypes ={
 }
 
 export default Button
+// const RajTuladhar=()=>{
+//   return(
+//     <>
+//     <div><h1>k cha laudu</h1></div>
+//     </>
+
+
+//   )
+// }
+// export default RajTuladhar;
