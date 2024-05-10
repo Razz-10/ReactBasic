@@ -19,6 +19,7 @@ const Home = () => {
       {/* <h1>{state1}</h1> */}
       <h1>{count}</h1>
       <h2>Hello</h2>
+      
       {/* <button onClick={()=>state2(state1+1)}>+</button> */}
 
       <button onClick={increaseCount}>+</button>
