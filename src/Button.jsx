@@ -9,7 +9,7 @@ const Button = (props) => {
   )
 }
 Button.defaultProps ={
-    bgColor : "blue",
+    bgColor : "red",
     textInsideButton:"Default"
 }
 Button.propTypes ={
